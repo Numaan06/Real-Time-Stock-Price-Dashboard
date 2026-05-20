@@ -15,37 +15,35 @@ Historical stock data table
 Interactive visualizations using Plotly
 Live stock prices in sidebar
 Multiple time-period analysis
-🛠️ Technologies Used
+
+🛠️ Technologies Used 
 Python
 Streamlit
 Pandas
 Plotly
 Yahoo Finance API
 ta
+
 📦 Installation
-
 Clone the repository:
-
 git clone <your-github-repo-link>
 cd stock-dashboard
 
 Install dependencies:
-
 pip install -r requirements.txt
 
 Run the project:
-
 streamlit run stock_dashboard.py
+
 📊 Project Output
-
 The dashboard displays:
-
 Live stock prices
 Interactive charts
 Technical indicators
 Historical stock data
 Portfolio profit/loss tracking
 Currency conversion values
+
 📁 Project Structure
 stock-dashboard/
 │
@@ -65,4 +63,4 @@ Multi-stock comparison
 Dark mode support
 
 👨‍💻 Author
-Developed by Shaik Mohammad Numaan.
+Developed by Shaik.
